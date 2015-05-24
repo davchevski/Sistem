@@ -17,17 +17,7 @@ namespace TaskSystem.Controllers
         #region Public Methods
 
         // GET: TasksAdmin/Index
-        public ActionResult Index(string message)
-        {
-            TaskViewModel model = new TaskViewModel();
-            model.ErrorMessage = message;
-            model.TaskStatusDropdown = DropdownHelper.FillTaskStatus(null);
-            model.TaskTimeStatusDropdown = DropdownHelper.FillTaskTimeStatus(null);
-            model.TaskImportantStatusDropdown = DropdownHelper.FillTaskImportantStatus(null);
-            var tasks = TaskHelper.Instance.GetAllTasks();
-            model.Tasks = MapTasksToViewModel(tasks);
-            return View(model);
-        }
+        
 
         // GET: /TasksAdmin/GetTasks
         public ActionResult GetTasks(string status, string time, string important)
