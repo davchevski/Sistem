@@ -1,0 +1,342 @@
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\TaskSystem.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\TaskSystem.pdb
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Antlr3.Runtime.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.AspNet.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.Core.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\EntityFramework.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Microsoft.Data.Edm.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Microsoft.Data.OData.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Newtonsoft.Json.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Net.Http.Formatting.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Spatial.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Helpers.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.OData.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.WebHost.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Mvc.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Optimization.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Razor.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.Deployment.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.Razor.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\WebGrease.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\WebMatrix.Data.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\WebMatrix.WebData.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\EntityFramework.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Newtonsoft.Json.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Net.Http.Formatting.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Helpers.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.WebHost.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Mvc.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Razor.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.Deployment.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.Razor.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\WebMatrix.Data.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\WebMatrix.WebData.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.AspNet.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.Core.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.OData.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Microsoft.Data.Edm.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\Microsoft.Data.OData.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\System.Spatial.xml
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\de\System.Spatial.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\es\System.Spatial.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\fr\System.Spatial.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\it\System.Spatial.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\ja\System.Spatial.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\ko\System.Spatial.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\ru\System.Spatial.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\obj\Debug\TaskSystem.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\obj\Debug\TaskSystem.dll
+c:\users\pc\documents\visual studio 2012\Projects\TaskSystem\TaskSystem\obj\Debug\TaskSystem.pdb
+D:\Projects\TaskSystem\TaskSystem\bin\TaskSystem.dll
+D:\Projects\TaskSystem\TaskSystem\bin\TaskSystem.pdb
+D:\Projects\TaskSystem\TaskSystem\bin\Antlr3.Runtime.dll
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.AspNet.dll
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.Core.dll
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.dll
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.dll
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projects\TaskSystem\TaskSystem\bin\EntityFramework.dll
+D:\Projects\TaskSystem\TaskSystem\bin\Microsoft.Data.Edm.dll
+D:\Projects\TaskSystem\TaskSystem\bin\Microsoft.Data.OData.dll
+D:\Projects\TaskSystem\TaskSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\TaskSystem\TaskSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Projects\TaskSystem\TaskSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Projects\TaskSystem\TaskSystem\bin\Newtonsoft.Json.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Net.Http.Formatting.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Spatial.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Helpers.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.OData.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.WebHost.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Mvc.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Optimization.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Razor.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.dll
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.Razor.dll
+D:\Projects\TaskSystem\TaskSystem\bin\WebGrease.dll
+D:\Projects\TaskSystem\TaskSystem\bin\WebMatrix.Data.dll
+D:\Projects\TaskSystem\TaskSystem\bin\WebMatrix.WebData.dll
+D:\Projects\TaskSystem\TaskSystem\bin\EntityFramework.xml
+D:\Projects\TaskSystem\TaskSystem\bin\Newtonsoft.Json.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Net.Http.Formatting.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Helpers.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.WebHost.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Mvc.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Razor.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.WebPages.Razor.xml
+D:\Projects\TaskSystem\TaskSystem\bin\WebMatrix.Data.xml
+D:\Projects\TaskSystem\TaskSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Projects\TaskSystem\TaskSystem\bin\WebMatrix.WebData.xml
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.AspNet.xml
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.Core.xml
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.xml
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.xml
+D:\Projects\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Web.Http.OData.xml
+D:\Projects\TaskSystem\TaskSystem\bin\Microsoft.Data.Edm.xml
+D:\Projects\TaskSystem\TaskSystem\bin\Microsoft.Data.OData.xml
+D:\Projects\TaskSystem\TaskSystem\bin\System.Spatial.xml
+D:\Projects\TaskSystem\TaskSystem\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\de\Microsoft.Data.OData.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\es\Microsoft.Data.OData.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\it\Microsoft.Data.OData.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\de\System.Spatial.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\es\System.Spatial.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\fr\System.Spatial.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\it\System.Spatial.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ja\System.Spatial.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ko\System.Spatial.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ru\System.Spatial.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\zh-Hans\System.Spatial.resources.dll
+D:\Projects\TaskSystem\TaskSystem\bin\zh-Hant\System.Spatial.resources.dll
+D:\Projects\TaskSystem\TaskSystem\obj\Debug\TaskSystem.dll
+D:\Projects\TaskSystem\TaskSystem\obj\Debug\TaskSystem.pdb
+D:\Projects\TaskSystem\TaskSystem\obj\Debug\TaskSystem.csprojResolveAssemblyReference.cache
+D:\Projects\TaskSystem\TaskSystem\bin\ClassShared.dll
+D:\Projects\TaskSystem\TaskSystem\bin\TaskSystemDL.dll
+D:\Projects\TaskSystem\TaskSystem\bin\ClassShared.pdb
+D:\Projects\TaskSystem\TaskSystem\bin\TaskSystemDL.pdb
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\TaskSystem.dll.config
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\TaskSystem.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\TaskSystem.pdb
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Antlr3.Runtime.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ClassShared.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.Core.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\EntityFramework.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Microsoft.Data.Edm.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Microsoft.Data.OData.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Newtonsoft.Json.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Spatial.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.Helpers.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.Http.OData.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.Mvc.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.Optimization.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.Razor.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.WebPages.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\TaskSystemDL.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\WebGrease.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\WebMatrix.Data.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\WebMatrix.WebData.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ClassShared.pdb
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\TaskSystemDL.pdb
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\EntityFramework.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Newtonsoft.Json.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.Helpers.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.Mvc.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.Razor.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.WebPages.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\WebMatrix.Data.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\WebMatrix.WebData.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.Core.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Web.Http.OData.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Microsoft.Data.Edm.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\Microsoft.Data.OData.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\System.Spatial.xml
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\de\System.Spatial.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\es\System.Spatial.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\fr\System.Spatial.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\it\System.Spatial.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ja\System.Spatial.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ko\System.Spatial.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\ru\System.Spatial.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\obj\Debug\TaskSystem.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\obj\Debug\TaskSystem.dll
+C:\Users\Alexandra\Downloads\Seminarska\Seminarska\TaskSystem\TaskSystem\obj\Debug\TaskSystem.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\TaskSystem.dll.config
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\TaskSystem.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\TaskSystem.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Antlr3.Runtime.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ClassShared.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.Core.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\EntityFramework.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Microsoft.Data.Edm.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Microsoft.Data.OData.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Newtonsoft.Json.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Spatial.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.Helpers.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.Http.OData.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.Mvc.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.Optimization.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.Razor.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.WebPages.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\TaskSystemDL.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\WebGrease.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\WebMatrix.Data.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\WebMatrix.WebData.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ClassShared.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\TaskSystemDL.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\EntityFramework.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Newtonsoft.Json.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.Helpers.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.Mvc.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.Razor.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.WebPages.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\WebMatrix.Data.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\WebMatrix.WebData.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.Core.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Web.Http.OData.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Microsoft.Data.Edm.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\Microsoft.Data.OData.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\System.Spatial.xml
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\de\System.Spatial.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\es\System.Spatial.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\fr\System.Spatial.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\it\System.Spatial.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ja\System.Spatial.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ko\System.Spatial.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\ru\System.Spatial.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\obj\Debug\TaskSystem.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\obj\Debug\TaskSystem.dll
+C:\Users\Alexandra\Documents\Visual Studio 2013\TaskSystem\TaskSystem\obj\Debug\TaskSystem.pdb

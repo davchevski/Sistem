@@ -1,0 +1,4 @@
+D:\Projects\TaskSystem\ClassShared\bin\Debug\ClassShared.dll
+D:\Projects\TaskSystem\ClassShared\bin\Debug\ClassShared.pdb
+D:\Projects\TaskSystem\ClassShared\obj\Debug\ClassShared.dll
+D:\Projects\TaskSystem\ClassShared\obj\Debug\ClassShared.pdb

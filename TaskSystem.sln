@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSystem", "TaskSystem\TaskSystem.csproj", "{0C608CE6-0A79-4578-B9B5-C7ABF20D8AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskSystemDL", "TaskSystemDL\TaskSystemDL.csproj", "{AB5F0257-3EBA-4FEA-BFC9-65C8939B4B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassShared", "ClassShared\ClassShared.csproj", "{E8ADF58D-C904-4F05-BF07-26181758A806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C608CE6-0A79-4578-B9B5-C7ABF20D8AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C608CE6-0A79-4578-B9B5-C7ABF20D8AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C608CE6-0A79-4578-B9B5-C7ABF20D8AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C608CE6-0A79-4578-B9B5-C7ABF20D8AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5F0257-3EBA-4FEA-BFC9-65C8939B4B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5F0257-3EBA-4FEA-BFC9-65C8939B4B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5F0257-3EBA-4FEA-BFC9-65C8939B4B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5F0257-3EBA-4FEA-BFC9-65C8939B4B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8ADF58D-C904-4F05-BF07-26181758A806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8ADF58D-C904-4F05-BF07-26181758A806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8ADF58D-C904-4F05-BF07-26181758A806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8ADF58D-C904-4F05-BF07-26181758A806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

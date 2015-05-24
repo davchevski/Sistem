@@ -1,0 +1,10 @@
+D:\Projects\TaskSystem\TaskSystemDL\bin\Debug\TaskSystemDL.dll.config
+D:\Projects\TaskSystem\TaskSystemDL\bin\Debug\TaskSystemDL.dll
+D:\Projects\TaskSystem\TaskSystemDL\bin\Debug\TaskSystemDL.pdb
+D:\Projects\TaskSystem\TaskSystemDL\bin\Debug\EntityFramework.dll
+D:\Projects\TaskSystem\TaskSystemDL\bin\Debug\EntityFramework.xml
+D:\Projects\TaskSystem\TaskSystemDL\obj\Debug\TaskSystemDL.csprojResolveAssemblyReference.cache
+D:\Projects\TaskSystem\TaskSystemDL\obj\Debug\TaskSystemDL.dll
+D:\Projects\TaskSystem\TaskSystemDL\obj\Debug\TaskSystemDL.pdb
+D:\Projects\TaskSystem\TaskSystemDL\bin\Debug\ClassShared.dll
+D:\Projects\TaskSystem\TaskSystemDL\bin\Debug\ClassShared.pdb

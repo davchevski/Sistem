@@ -1,0 +1,87 @@
+﻿@model IEnumerable<TaskSystem.Models.TaskModel>
+
+@if(Model != null && Model.Any())
+{
+<table id="tbl_Requests" class="table table-striped table-hover table-bordered table-condensed">
+    <thead>
+        <tr>
+            <th>
+                <span>Title</span>
+            </th>
+            <th>
+                <span>Description</span>
+            </th>
+            <th>
+                <span>Task Date</span>
+            </th>
+            <th>
+                <span>Important</span>
+            </th>
+            <th>
+                <span>Status</span>
+            </th>
+             <th>
+                <span>Date Created</span>
+            </th>
+            <th>
+                <span>Edit</span>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StrTaskDate)
+                </td>
+                <td>
+                   @if (item.Important == (int)ClassShared.TaskImportantStatus.Low)
+                    { 
+                        <span style="color: green">@ClassShared.Strings.TaskImportantStatus.Low</span>
+                    }
+                   else if (item.Important == (int)ClassShared.TaskImportantStatus.Medium)
+                    {
+                        <span style="color: green">@ClassShared.Strings.TaskImportantStatus.Medium</span>
+                    }
+                   else if (item.Important == (int)ClassShared.TaskImportantStatus.High)
+                    {
+                        <span style="color: red">@ClassShared.Strings.TaskImportantStatus.High</span>
+                    }
+                </td>
+                <td>
+                    @if (item.Status == (int)ClassShared.TaskStatus.NotStarted)
+                    { 
+                        <span style="color: red">@ClassShared.Strings.TaskStatus.NotStarted</span>
+                    }
+                    else if (item.Status == (int)ClassShared.TaskStatus.InProgress)
+                    {
+                         <span style="color: blue">@ClassShared.Strings.TaskStatus.InProgress</span>
+                    }
+                    else if (item.Status == (int)ClassShared.TaskStatus.Complete)
+                    {
+                        <span style="color: green">@ClassShared.Strings.TaskStatus.Complete</span>
+                    }
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StrDateCreated)
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "TasksUser", new { id = item.Id })">
+                        <img id="edit" src="~/Images/edit.png" alt="edit">
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr></tr>
+    </tfoot>
+    </table>
+}

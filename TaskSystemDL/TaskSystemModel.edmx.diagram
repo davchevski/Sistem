@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="830f0b8f296145c38a9ca59e19da115f" Name="Diagram1" ZoomLevel="48">
+        <EntityTypeShape EntityType="TaskSystemModel.sysdiagram" Width="1.5" PointX="4.8626685742580653" PointY="7.2628032747948561" />
+        <EntityTypeShape EntityType="TaskSystemModel.Task" Width="1.5" PointX="9.58729440606539" PointY="27.503290442518558" />
+        <EntityTypeShape EntityType="TaskSystemModel.UserProfile" Width="1.5" PointX="1.3434770504680822" PointY="13.891294068606241" />
+        <EntityTypeShape EntityType="TaskSystemModel.webpages_Membership" Width="1.5" PointX="10.460675037680508" PointY="9.8585382000815773" />
+        <EntityTypeShape EntityType="TaskSystemModel.webpages_OAuthMembership" Width="1.5" PointX="7.70209964723424" PointY="31.632192596621902" />
+        <EntityTypeShape EntityType="TaskSystemModel.webpages_Roles" Width="1.5" PointX="2.8534107351924343" PointY="2.3639478396456446" />
+        <AssociationConnector Association="TaskSystemModel.FK_Tasks_UserProfile" />
+        <AssociationConnector Association="TaskSystemModel.webpages_UsersInRoles" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
