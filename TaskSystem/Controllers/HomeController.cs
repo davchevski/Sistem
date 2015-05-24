@@ -15,12 +15,7 @@ namespace TaskSystem.Controllers
             return View();
         }
 
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your app description page.";
-
-            return View();
-        }
+        
 
         public ActionResult Contact()
         {
